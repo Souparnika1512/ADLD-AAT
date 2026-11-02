@@ -1,3 +1,3 @@
 # AAT 2
 
-This folder contains Verilog programs, simulation screenshots and the AAT 2 report.
+This folder contains the report of AAT-2 OF COMPARATOR AND SHIFT REGISTER
