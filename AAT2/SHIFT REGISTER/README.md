@@ -1,0 +1,3 @@
+A shift register is a sequential digital circuit used to store and transfer binary data. It consists of a group of flip-flops connected in series, where each flip-flop stores one bit of information. The data is shifted from one flip-flop to another based on the clock signal.
+
+A 4-bit Universal Shift Register is capable of performing different operations such as holding data, shifting data to the right, shifting data to the left and parallel loading. The operation is controlled by two selection inputs. It operates based on the positive edge of the clock signal and uses a reset signal to clear all stored bits.
